@@ -1,0 +1,15 @@
+\\psf\Home\Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\bin\Debug\TextbookEngine.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\bin\Debug\TextbookEngine.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\bin\Debug\nunit.framework.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\bin\Debug\nunit.framework.xml
+\\psf\Home\Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\bin\Debug\Tao.OpenAl.xml
+\\psf\Home\Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\bin\Debug\Tao.Sdl.xml
+\\psf\Home\Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\obj\Debug\TextbookEngine.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\obj\Debug\TextbookEngine.pdb
+E:\My Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\bin\Debug\TextbookEngine.dll
+E:\My Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\bin\Debug\TextbookEngine.pdb
+E:\My Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\bin\Debug\nunit.framework.xml
+E:\My Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\obj\Debug\TextbookEngine.dll
+E:\My Documents\Visual Studio 2010\Projects\BriEngine\BriEngine\obj\Debug\TextbookEngine.pdb
